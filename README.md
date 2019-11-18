@@ -8,16 +8,16 @@ El juego recibe un número como parámetro por consola. Este determina
 si es divisible entre 3, despliega Fizz. Si es divisible entre 5 despliega
 Buzz.
 
-* FizzBuzz1.rb
+## FizzBuzz1.rb
 
 Es el primer intento a una solución.
 
-* FizzBuzz2
+## FizzBuzz2
 
 Se encarga de separar el contenido por clases aunque todavía no está
 completamente refactorizado.
 
-* FizzBuzz Refactoring
+## FizzBuzz Refactoring
 
 Es el juego después de aplicar los demás principios de SOLID, como lo fue explicado
 durante la presentación. Open-Closed, Liskov Substitution, Interface Segregation y
