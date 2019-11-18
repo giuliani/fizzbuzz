@@ -12,12 +12,12 @@ Buzz.
 
 Es el primer intento a una solución.
 
-## FizzBuzz2
+## FizzBuzz Refactoring
 
 Se encarga de separar el contenido por clases aunque todavía no está
 completamente refactorizado.
 
-## FizzBuzz Refactoring
+## FizzBuzz2
 
 Es el juego después de aplicar los demás principios de SOLID, como lo fue explicado
 durante la presentación. Open-Closed, Liskov Substitution, Interface Segregation y
